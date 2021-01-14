@@ -14,7 +14,7 @@
 - Dans l'élément `<head>` du fichier `index.html`, insérer une balise permettant de lier ce document HTML au nouveau fichier `style.css`.
 
 Ajoutez le code ci-dessous dans `style.css` pour vérifier que tout fonctionne bien. Le texte de la page deviendra rouge après le rechargement du navigateur web.
-
+<link rel="stylesheet" type="text/css"href="style.css/>
 **Effacez ce code avant de passer à la suite.**
 
 ```css
