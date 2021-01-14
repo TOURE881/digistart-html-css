@@ -17,11 +17,16 @@ Ajoutez le code ci-dessous dans `style.css` pour vérifier que tout fonctionne b
 
 **Effacez ce code avant de passer à la suite.**
 
-```css
-* {
+div {
   color: red;
 }
-```
+p {
+color:red
+}
+
+image{
+border: 4px solide black
+}
 
 ### Résultat attendu pour l'exercice 1
 
