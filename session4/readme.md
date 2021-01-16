@@ -1,5 +1,5 @@
 # Session 4 : Ajouter des styles à une page HTML
-
+<link rel="styleheet" type=text/css" href="style.css/>
 ## Cours
 
 [Cliquer ici pour consulter le cours](https://docs.google.com/presentation/d/1kXFwCMCO097xIDYoTavrTepULkNBk_SBf0L19qyRJ8Y/edit?usp=sharing)
